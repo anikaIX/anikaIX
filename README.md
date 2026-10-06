@@ -37,9 +37,23 @@ Classifies harmful online text using classical ML and deep learning, trained on 
 
 ## Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,vite,flask,tensorflow,sklearn,git,github,vercel,vscode" />
-</p>
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=py,js,java,c,cpp" height="48" /> <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="40" />
+
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vite" height="48" />
+
+**Backend**<br/>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs" height="48" /> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="40" />
+
+**Databases**<br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,supabase" height="48" />
+
+**AI / ML**<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" height="48" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="40" />
+
+**Tools & Deployment**<br/>
+<img src="https://skillicons.dev/icons?i=github,vscode,vercel,androidstudio" height="48" /> <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" height="40" />
 
 ## Education
 
